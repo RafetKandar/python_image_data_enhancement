@@ -4,6 +4,7 @@
 <strong> tr : </strong> Bu yaptığımız çalışmada bir görüntüyü kullanarak birden fazla görüntü elde ediyoruz. </p>
 <ul>
   <li> Image Used To Reproduce <strong> (Çoğaltmak İçin Kullanılan Görüntü) </strong> </li> </br>
+  
 ![python_image_data_enhancement](cat.jpg) </br>
 
 </ul>
