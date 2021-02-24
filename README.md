@@ -9,6 +9,6 @@
 
 <li> Augmented Images <strong> (Çoğaltılan Görüntüler) </strong> </li> </br>
 
-![python_image_data_enhancement](images.jpg) </br>
+![python_image_data_enhancement](images.PNG) </br>
 
 </ul>
