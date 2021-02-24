@@ -9,6 +9,6 @@
 
 <li> Augmented Images <strong> (Çoğaltılan Görüntüler) </strong> </li> </br>
 
-![python_image_data_enhancement](images.PNG) </br>
+<img src = "images.PNG" width = 10000px height=450></img>
 
 </ul>
